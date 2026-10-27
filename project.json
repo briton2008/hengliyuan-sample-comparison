@@ -1,0 +1,23 @@
+{
+  "repo": "hengliyuan-sample-comparison",
+  "title": "Hengliyuan Sample Comparison",
+  "short": "Coded sweetener sample observations",
+  "slug": "sweetener-sample-comparison",
+  "component": "sample-comparison",
+  "description": "Record coded sweetener observations in an actual application and prepare a revision discussion.",
+  "features": [
+    "Record application, target and conditions before comparing samples.",
+    "Separate preparer code key, coded observations and optional identity reveal.",
+    "Preserve per-dimension observations and export a company PDF record."
+  ],
+  "limit": "Individual observations are not a sensory-panel study, statistically significant ranking, product endorsement or production approval.",
+  "topics": [
+    "sensory-evaluation",
+    "sweeteners",
+    "sample-testing",
+    "react",
+    "vite",
+    "pdf",
+    "open-source"
+  ]
+}
