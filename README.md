@@ -2,9 +2,11 @@
 
 [![CI](https://github.com/briton2008/hengliyuan-sample-comparison/actions/workflows/ci.yml/badge.svg)](https://github.com/briton2008/hengliyuan-sample-comparison/actions/workflows/ci.yml) [![Pages](https://github.com/briton2008/hengliyuan-sample-comparison/actions/workflows/pages.yml/badge.svg)](https://github.com/briton2008/hengliyuan-sample-comparison/actions/workflows/pages.yml) [![Release](https://img.shields.io/github/v/release/briton2008/hengliyuan-sample-comparison)](https://github.com/briton2008/hengliyuan-sample-comparison/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**[Live demo](https://briton2008.github.io/hengliyuan-sample-comparison/) · [Official company tool](https://heng-li-yuan.com/tools/sweetener-sample-comparison/) · [中文](README.zh-CN.md)**
+**[Company website](https://heng-li-yuan.com/) · [Live demo](https://briton2008.github.io/hengliyuan-sample-comparison/) · [Official company tool](https://heng-li-yuan.com/tools/sweetener-sample-comparison/) · [中文](README.zh-CN.md)**
 
-![Hengliyuan Sample Comparison](assets/social-preview.png)
+[![Hengliyuan Sample Comparison](assets/team-cover-en.png)](https://heng-li-yuan.com/)
+
+Click the illustrated cover to visit the company website.
 
 Record coded sweetener observations in an actual application and prepare a revision discussion. An independent, English-language browser project maintained by Guilin Hengliyuan Biotech Co., Ltd. No login or automatic submissions.
 
